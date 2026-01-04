@@ -1,6 +1,6 @@
 # 🏦 Bank Financial Loan Analysis – Credit Risk & Portfolio Performance
 
-Analyzing bank loan data to evaluate credit risk, customer behavior, and portfolio performance using **SQL, Python, and Power BI**.
+Analyzing bank loan data to evaluate credit risk, customer behavior, and portfolio performance using **SQL and Power BI**.
 
 ---
 
@@ -17,6 +17,7 @@ Analyzing bank loan data to evaluate credit risk, customer behavior, and portfol
 - [How to Run This Project](#how-to-run-this-project)
 - [Final Recommendations](#final-recommendations)
 - [Author](#author)
+- [contact](#contact)
 
 ---
 
@@ -46,7 +47,6 @@ Banks must balance **growth and risk** while issuing loans. This project aims to
 
 ## Tools & Technologies
 - **SQL** – Joins, CTEs, Window Functions, Aggregations
-- **Python** – Pandas, NumPy, Matplotlib
 - **Power BI** – Interactive dashboards & KPIs
 - **GitHub** – Version control & project documentation
 
