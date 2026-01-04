@@ -18,6 +18,25 @@ Analyzing bank loan data to evaluate credit risk, customer behavior, and portfol
 - [Final Recommendations](#final-recommendations)
 - [Author](#author)
 - [contact](#contact)
+---
+
+## 📬 Contact & Connect
+
+**Pramit Verma**  
+📊 Data Analyst | Power BI | SQL | Financial Analytics  
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/pramit-verma-589077245  
+
+📧 **Email:**  
+pratapverma14810869@gmail.com  
+
+💼 Open to opportunities in:
+- Data Analytics
+- Business Intelligence
+- Financial / Risk Analysis
+
+Feel free to connect for collaboration, feedback, or opportunities.
 
 ---
 
